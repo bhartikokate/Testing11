@@ -6,7 +6,7 @@ public class DemoGIUPractice {
 		System.out.println("m1 mtd");
 		System.out.println("This is DemoGIUPractice class ");
 		System.out.println("-----My Demo-----");
-		System.out.println("************************");
+		System.out.println("************My demo************");
 		
 	}
 
